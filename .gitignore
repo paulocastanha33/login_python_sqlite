@@ -1,0 +1,7 @@
+# Ignorar banco de dados e arquivos de build
+database/usuarios.db
+*.pyc
+__pycache__/
+dist/
+build/
+*.spec
